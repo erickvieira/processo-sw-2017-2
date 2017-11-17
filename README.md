@@ -56,8 +56,10 @@
 │   │   ├── 01 - construção.png
 │   │   └── 01 - construção.xml
 │   ├── 06 - Homologação
+│   │   ├── 01 - homologação.md
 │   │   └── 01 - homologação.png
 │   └── 07 - Implantação
+│   │   ├── 01 - implantação.md
 │       └── 01 - implantação.png
 ├── 03 - Extras
 │   ├── 01 - Artefatos
