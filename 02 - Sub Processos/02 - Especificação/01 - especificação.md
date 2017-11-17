@@ -1,4 +1,4 @@
-Descrição da etapa de especificação do processo
+#### Descrição da etapa de especificação do processo
 - Dados de entrada do processo: estória de usuário dos stakeholders do projeto.
 - Detalhamento dos requisitos funcionais: A partir das estórias de usuário, coletadas na etapa anterior, é feito a especificação das 
   funcionalidades que o sistema deverá oferecer, de forma a definir cada uma, com uma descrição, sua prioridade, complexidade e id 
