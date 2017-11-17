@@ -89,14 +89,14 @@
 ## Padrões Adotados  
 ### Padrões de Nomenclatura  
 - xx - yy.xx
-  - xx: Número do artefato 
+  - xx: Número do artefato.
   - yy: Nome do artefato com letras minúsculas e separadas por "-" quando necessário.
-  - zz: Extenção/Formato do artefato
+  - zz: Extenção/Formato do artefato.
 ### Ferramentas e Extensões Utilizadas
 - Diagramas: draw.io (.xml)
-  - Os arquivos .xml podem ser abertos em [Draw](https://www.draw.io/)
+  - Os arquivos .xml podem ser abertos em [Draw](https://www.draw.io/).
 - Texto: Markdown (.md)
-  - Os arquivos .md podem ser abetos pelas ferramentas [Visual Studio Code](https://code.visualstudio.com/) ou [Sublime Text 3](https://www.sublimetext.com/3)
+  - Os arquivos .md podem ser abetos pelas ferramentas [Visual Studio Code](https://code.visualstudio.com/) ou [Sublime Text 3](https://www.sublimetext.com/3).
 - Texto: Portable Document Format (.pdf)
-  - Os arquivos .pdf podem ser abetos por qualquer navegador ou pela ferramenta [Adobe Acrobat Reader](https://get.adobe.com/br/reader/)
+  - Os arquivos .pdf podem ser abetos por qualquer navegador ou pela ferramenta [Adobe Acrobat Reader](https://get.adobe.com/br/reader/).
 - Imagens: Portable Network Graphics (.png)
