@@ -89,8 +89,8 @@
 ## Padrões Adotados  
 ### Padrões de Nomenclatura  
 - xx - yy.xx
-  - xx: Número do artefato
-  - yy: Nome do artefato
+  - xx: Número do artefato 
+  - yy: Nome do artefato com letras minúsculas e separadas por "-" quando necessário.
   - zz: Extenção/Formato do artefato
 ### Ferramentas e Extensões Utilizadas
 - Diagramas: draw.io (.xml)
