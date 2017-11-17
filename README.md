@@ -38,7 +38,7 @@
 │   │       ├── 02 - arq-camadas-mvc.png
 │   │       ├── 02 - arq-camadas-mvc.xml
 │   │       ├── 02 - arquitetura-em-camadas-mvc.xml
-│   │       ├── 02 - diagrama-de-classe.docx
+│   │       ├── 02 - diagrama-de-classe.md
 │   │       ├── 03 - diagrama-de-classe.md
 │   │       ├── 03 - diagrama de classe.png
 │   │       ├── 03 - diagrama-de-classe.xml
@@ -46,7 +46,7 @@
 │   │       ├── 04 - diagrama-de-função.png
 │   │       ├── 04 - diagrama-de-função.xml
 │   │       ├── 05 - diagrama-de-função.xml
-│   │       └── 05 - diagrama-de-sequencia.pdf
+│   │       └── 05 - diagrama-de-sequencia.png
 │   ├── 04 - Testes
 │   |   ├── 01 - testes.md
 │   │   ├── 01 - testes.png
