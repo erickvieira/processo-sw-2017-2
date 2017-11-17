@@ -57,9 +57,11 @@
 │   │   └── 01 - construção.xml
 │   ├── 06 - Homologação
 │   │   ├── 01 - homologação.md
-│   │   └── 01 - homologação.png
+│   │   ├── 01 - homologação.png
+│   │   └── 01 - homologação.xml
 │   └── 07 - Implantação
 │       ├── 01 - implantação.md
+│       ├── 01 - implantação.png
 │       └── 01 - implantação.png
 ├── 03 - Documentação
 │   ├── 01 - Análise Arquitetural
