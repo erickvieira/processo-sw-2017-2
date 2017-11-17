@@ -15,17 +15,21 @@
 ### Estrutura Geral do Repositório  
 <pre><code>.
 ├── 01 - Processo Geral
+│   ├── 01 - processo-geral.md
 │   ├── 01 - processo-geral.png
 │   └── 01 - processo-geral.xml
 ├── 02 - Sub Processos
 │   ├── 01 - Concepção
-│   │   └── 01 - concepcao.xml
+│   |   ├── 01 - concepcao.md
+│   │   ├── 01 - concepcao.xml
+|   |   └── 01 - concepcao.png
 │   ├── 02 - Especificação
 │   │   ├── 01 - especificação.md
 │   │   ├── 01 - especificação.png
 │   │   └── 01 - especificação.xml
 │   ├── 03 - Arquitetura
 │   │   ├── 01 - Processo
+│   │   │   ├── 01 - arquitetura.md
 │   │   │   ├── 01 - arquitetura.png
 │   │   │   └── 01 - arquitetura.xml
 │   │   └── 02 - Artefatos Gerados
@@ -44,6 +48,7 @@
 │   │       ├── 05 - diagrama-de-função.xml
 │   │       └── 05 - diagrama-de-sequencia.pdf
 │   ├── 04 - Testes
+│   |   ├── 01 - testes.md
 │   │   ├── 01 - testes.png
 │   │   └── 01 - testes.xml
 │   ├── 05 - Construção
