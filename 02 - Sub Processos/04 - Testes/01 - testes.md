@@ -1,3 +1,3 @@
-Descrição da etapa de testes:
-- Seleção de item de backlog: Os itens a serem testados são dfinidos de acordo com o que foi produzido durante a sprint corrente. Logo, para se dar o início da etapa de testes, o Sprint Backlog deve ser enviado à equipe de testes (preferencialmente por email) e esta irá contruir os testes baseados nos padrões definidos pela organização.
+﻿Descrição da etapa de testes:
+- Seleção de item de backlog: Os itens a serem testados são definidos de acordo com o que foi produzido durante a sprint corrente. Logo, para se dar o início da etapa de testes, o Sprint Backlog deve ser enviado à equipe de testes (preferencialmente por email) e esta irá construir os testes baseados nos padrões definidos pela organização.
 - Implementação de teste: Após a definição do que será testado, a equipe de teste fica encarregada de produzir testes unitários para cada função prevista no backlog do produto, até que não hajam mais funções não testadas.

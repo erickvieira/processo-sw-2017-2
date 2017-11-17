@@ -59,9 +59,22 @@
 │   │   ├── 01 - homologação.md
 │   │   └── 01 - homologação.png
 │   └── 07 - Implantação
-│   │   ├── 01 - implantação.md
+│       ├── 01 - implantação.md
 │       └── 01 - implantação.png
-├── 03 - Extras
+├── 03 - Documentação
+│   ├── 01 - especificacão do processo.pdf
+│   ├── 02 - especificação da  análise de requisitos.pdf
+│   ├── 03 - Análise Arquitetural
+|   |   ├── 01 - especificação da arquitetura do projeto.pdf
+|   |   ├── 02 - especificação do diagrama de classe.pdf
+|   |   ├── 03 - arquitetura.png
+|   |   ├── 04 - diagrama de classes.png
+|   |   └── 05 - diagrama de função.png
+│   ├── 04 - especificação da implementação do software.pdf
+│   ├── 05 - especificação de teste e homologação.pdf
+│   ├── 06 - especificação da implantação.pdf
+│   └── 07 - resumo do processo.pdf
+├── 04 - Extras
 │   ├── 01 - Artefatos
 │   │   ├── 01 - processos-atributos-resultados-mps.odt
 │   │   └── 02 - cronograma-trabalho-final.odt

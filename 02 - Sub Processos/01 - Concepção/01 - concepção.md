@@ -1,0 +1,5 @@
+﻿#### Descrição da etapa de concepção:
+- Reunião inicial: A etapa de reunião inicial é responsável por expor, à equipe de desenvolvimento, o problema o qual o cliente espera por uma solução. São apresentados Resumos do Modelo de Negócio da Organização e a Definição Preliminar do Escopo do Produto que será desenvolvido.
+- Análise de dados: Com os Resumos do Modelo de Negócio da Organização e a Definição Preliminar do Escopo do Produto em mãos, a equipe de desenvolvimento deve começar a estruturar a aplicação que será construída, definindo o escopo da solução, o termo de abertura do projeto e um documento contendo os pontos de função esperados.
+- Estimativa: Com os dados da etapa anterior, a equipe deve planejar e estimar a duração do projeto, dividida em sprints, além de estimar superficialmente os custos esperados para o desenvolvimento da aplicação.
+- Formalização: Após a análise dos dados de todas as etapas anteriores, a equipe deve formalizar o que foi acordado com o cliente em um documento de visão, explicitando o que será feito, em quanto tempo e quanto irá custar.

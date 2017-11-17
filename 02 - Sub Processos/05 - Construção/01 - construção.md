@@ -1,4 +1,4 @@
-### Definição de Atividades Processo de Construção de Software
+﻿### Definição de Atividades Processo de Construção de Software
 _______________________________________________________________
 #### Atividade:  
 Codificação  
@@ -12,7 +12,7 @@ Codificação
 1 - Projeto Arquitetural está pronto.  
 #### Entradas:  
 1 - Especificações da funcionalidade  
-2 - Especificaço do modelo de interação  
+2 - Especificação do modelo de interação  
 3 - Especificação da interface de usuário  
 4 - Especificação da arquitetura de software  
 5 - Especificação dos algoritmos e estruturas de dados  
@@ -61,7 +61,7 @@ Planejamento Teste
 1 - Código fonte e documentação.  
 #### Critérios de Saída:  
 1 - Base padronizada de teste.  
-2 - Evidencia de teste e UC.  
+2 - Evidência de teste e UC.  
 #### Ferramentas:  
 1 - Testlink.  
 _______________________________________________________________
