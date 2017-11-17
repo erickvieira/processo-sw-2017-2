@@ -69,9 +69,17 @@
 │       ├── modelo-01.pdf
 │       └── modelo-02.pdf
 └── README.md</code></pre>
-### Correspondências com as Áreas do MPS  
+### Correspondências com as Áreas do MPS.BR  
 ***
 ## Padrões Adotados  
-### Padrões de Estruturais  
 ### Padrões de Nomenclatura  
-### Ferramentas e Extensões Utilizadas  
+- xx - yy.xx
+  - xx: Número do artefato
+  - yy: Nome do artefato
+  - zz: Extenção/Formato do artefato
+### Ferramentas e Extensões Utilizadas
+- diagramas: draw.io (.xml)
+  - Os arquivos .xml podem ser abertos em [Draw](https://www.draw.io/)
+- texto: Markdown (.md)
+  - Os arquivos .md podem ser abetos pelas ferramentas [Visual Studio Code](https://code.visualstudio.com/) ou [Sublime Text 3](https://www.sublimetext.com/3)
+- imagens: Portable Network Graphics (.png)
