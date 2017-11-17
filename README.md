@@ -78,8 +78,8 @@
   - yy: Nome do artefato
   - zz: Extenção/Formato do artefato
 ### Ferramentas e Extensões Utilizadas
-- diagramas: draw.io (.xml)
+- Diagramas: draw.io (.xml)
   - Os arquivos .xml podem ser abertos em [Draw](https://www.draw.io/)
-- texto: Markdown (.md)
+- Texto: Markdown (.md)
   - Os arquivos .md podem ser abetos pelas ferramentas [Visual Studio Code](https://code.visualstudio.com/) ou [Sublime Text 3](https://www.sublimetext.com/3)
-- imagens: Portable Network Graphics (.png)
+- Imagens: Portable Network Graphics (.png)
