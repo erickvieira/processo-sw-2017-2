@@ -88,15 +88,20 @@
 ***
 ## Padrões Adotados  
 ### Padrões de Nomenclatura  
-- xx - yy.xx
-  - xx: Número do artefato.
-  - yy: Nome do artefato com letras minúsculas e separadas por "-" quando necessário.
+#### Nomenclatura de Diretórios  
+- xx - yyy yy
+  - XX: Índice/identificador numérico, separado por " - " do nome do artefato.
+  - yy: Nome do artefato com a primeira letra maiúscula e separado por espaços simples, quando necessário.
+#### Nomenclatura de Artefatos   
+- xx - yyy-yy.zz
+  - xx: Índice/identificador numérico do artefato - um indicador único que, se concatenado com os indicadores das pastas nas quais o artefato em questão está contido, resultará num indicador único para cada artefato -, separado por " - " do nome do artefato.
+  - yy: Nome do artefato obrigatoriamente em **letras minúsculas** e separados por "-", quando necessário.
   - zz: Extenção/Formato do artefato.
 ### Ferramentas e Extensões Utilizadas
 - Diagramas: draw.io (.xml)
   - Os arquivos .xml podem ser abertos em [Draw](https://www.draw.io/).
 - Texto: Markdown (.md)
-  - Os arquivos .md podem ser abetos pelas ferramentas [Visual Studio Code](https://code.visualstudio.com/) ou [Sublime Text 3](https://www.sublimetext.com/3).
+  - Os arquivos .md podem ser abetos, por exemplo, pelas ferramentas [Visual Studio Code](https://code.visualstudio.com/) ou [Sublime Text 3](https://www.sublimetext.com/3).
 - Texto: Portable Document Format (.pdf)
   - Os arquivos .pdf podem ser abetos por qualquer navegador ou pela ferramenta [Adobe Acrobat Reader](https://get.adobe.com/br/reader/).
 - Imagens: Portable Network Graphics (.png)
