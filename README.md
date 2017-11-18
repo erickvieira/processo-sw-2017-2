@@ -84,7 +84,6 @@
 │       ├── modelo-01.pdf
 │       └── modelo-02.pdf
 └── README.md</code></pre>
-### Correspondências com as Áreas do MPS.BR  
 ***
 ## Padrões Adotados  
 ### Padrões de Nomenclatura  
